@@ -1,6 +1,6 @@
-# SmartStudy Web App
+# Easy-Study Web App
 
-SmartStudy is a web application for students to view notes and take quizzes.
+Easy-study is a web application for students to view notes and take quizzes.
 Built with HTML, CSS, JavaScript, and Firebase.
 
 ## Features
